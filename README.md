@@ -55,4 +55,5 @@ This project is proudly licensed under the Apache License. For more details, see
 ## 📸 Gallery
 ![1_robotic_arm_setup](https://github.com/gnanesh-16/Automated_gigglethon/assets/98212179/4c2fd188-e96a-4b49-b3f6-ca11ed4f598f)
 
+![WhatsApp Image 2024-03-24 at 06 36 42_79c7faba](https://github.com/2110049135-NITHIN/Automated_gigglethon/assets/115773664/ff4ff82c-8137-4f76-9f9f-989c4bb6138c)
 
